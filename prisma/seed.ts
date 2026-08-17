@@ -1,7 +1,8 @@
 import { config } from "dotenv";
 import { resolve } from "node:path";
 
-config({ path: resolve(__dirname, "../.env"), override: true });
+config({ path: resolve(__dirname, "../.env.local") });
+config({ path: resolve(__dirname, "../.env") });
 
 import { GlobalRole, ManpowerRole } from "@prisma/client";
 import bcrypt from "bcryptjs";

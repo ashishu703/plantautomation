@@ -12,6 +12,7 @@ export type AisensySettings = {
 function envFallbackKey(): string | null {
   return (
     process.env.AISENSY_API_KEY?.trim() ||
+    process.env.AiSensy_API_KEY?.trim() ||
     process.env.AiSensy_API_KYE?.trim() ||
     process.env.AISENSY_API_KYE?.trim() ||
     null
