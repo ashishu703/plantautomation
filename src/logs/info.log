@@ -1,0 +1,970 @@
+{"level":"info","message":"Google service account authenticated successfully","service":"cable-rates-api","timestamp":"2026-08-07 11:44:28"}
+{"code":"ERR_BAD_REQUEST","level":"error","message":"Google Sheets API error Requested entity was not found.","service":"cable-rates-api","status":404,"timestamp":"2026-08-07 11:44:29"}
+{"level":"info","message":"Google service account authenticated successfully","service":"cable-rates-api","timestamp":"2026-08-07 11:45:44"}
+{"code":"ERR_BAD_REQUEST","level":"error","message":"Google Sheets API error Requested entity was not found.","service":"cable-rates-api","status":404,"timestamp":"2026-08-07 11:45:45"}
+{"level":"info","message":"Google service account authenticated successfully","service":"cable-rates-api","timestamp":"2026-08-07 11:46:18"}
+{"level":"info","message":"Google service account authenticated successfully","service":"cable-rates-api","timestamp":"2026-08-07 11:46:40"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 11:46:41"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 11:47:00"}
+{"level":"info","message":"\u001b[0mGET / \u001b[33m404\u001b[0m 19.823 ms - 52\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:47:08"}
+{"level":"info","message":"\u001b[0mGET / \u001b[33m404\u001b[0m 0.788 ms - 52\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:47:08"}
+{"level":"info","message":"\u001b[0mGET / \u001b[33m404\u001b[0m 0.489 ms - 52\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:47:08"}
+{"level":"info","message":"\u001b[0mGET / \u001b[33m404\u001b[0m 0.570 ms - 52\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:47:09"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health \u001b[32m200\u001b[0m 1.560 ms - 78\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:47:09"}
+{"level":"info","message":"\u001b[0mGET / \u001b[33m404\u001b[0m 0.375 ms - 52\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:47:09"}
+{"level":"info","message":"\u001b[0mGET / \u001b[33m404\u001b[0m 0.868 ms - 52\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:47:09"}
+{"level":"info","message":"Google service account authenticated successfully","service":"cable-rates-api","timestamp":"2026-08-07 11:47:09"}
+{"level":"info","message":"\u001b[0mGET / \u001b[33m404\u001b[0m 2.358 ms - 52\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:47:10"}
+{"level":"info","message":"\u001b[0mGET / \u001b[33m404\u001b[0m 1.277 ms - 52\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:47:10"}
+{"level":"info","message":"\u001b[0mGET / \u001b[33m404\u001b[0m 1.262 ms - 52\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:47:10"}
+{"level":"info","message":"\u001b[0mGET / \u001b[33m404\u001b[0m 1.265 ms - 52\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:47:10"}
+{"level":"info","message":"\u001b[0mGET / \u001b[33m404\u001b[0m 0.965 ms - 52\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:47:11"}
+{"level":"info","message":"\u001b[0mGET / \u001b[33m404\u001b[0m 0.979 ms - 52\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:47:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 11:47:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 11:47:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 1979.863 ms - 6346\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:47:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates/1 \u001b[32m200\u001b[0m 4.300 ms - 150\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:47:11"}
+{"level":"info","message":"\u001b[0mGET / \u001b[33m404\u001b[0m 2.327 ms - 52\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:47:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health \u001b[32m200\u001b[0m 0.600 ms - 100\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:47:26"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 11:47:27"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 11:47:27","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 692.835 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:47:27"}
+{"level":"info","message":"\u001b[0mGET / \u001b[33m404\u001b[0m 10.701 ms - 52\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:51:21"}
+{"level":"info","message":"\u001b[0mGET / \u001b[33m404\u001b[0m 0.605 ms - 52\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:51:22"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404\u001b[0m 0.608 ms - 63\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:51:22"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 11:52:03"}
+{"level":"info","message":"\u001b[0mGET / \u001b[33m404\u001b[0m 29.327 ms - 52\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:52:16"}
+{"level":"info","message":"\u001b[0mGET / \u001b[33m404\u001b[0m 1.078 ms - 52\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:52:17"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 11:55:49"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 8.965 ms - 2179\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:55:54"}
+{"level":"info","message":"Google service account authenticated successfully","service":"cable-rates-api","timestamp":"2026-08-07 11:55:54"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 11:55:56"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 11:55:56","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 1909.705 ms - 6346\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:55:56"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 7.495 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:58:05"}
+{"level":"info","message":"\u001b[0mGET /css/styles.css \u001b[32m200\u001b[0m 4.955 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:58:05"}
+{"level":"info","message":"\u001b[0mGET /js/app.js \u001b[32m200\u001b[0m 3.682 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:58:05"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 5.322 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:58:06"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 11:59:07"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 11:59:07","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 799.857 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:59:07"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.470 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 11:59:07"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:00:06"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:00:06","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 862.575 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:00:06"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 4.596 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:00:06"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:01:06"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:01:06","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 749.618 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:01:06"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.600 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:01:06"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 1.431 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:01:36"}
+{"level":"info","message":"\u001b[0mGET /css/styles.css \u001b[32m200\u001b[0m 1.707 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:01:36"}
+{"level":"info","message":"\u001b[0mGET /js/app.js \u001b[32m200\u001b[0m 3.354 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:01:36"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 3.532 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:01:36"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[32m200\u001b[0m 6.332 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:01:37"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 1.956 ms - 3579\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:01:42"}
+{"level":"info","message":"\u001b[0mGET /js/app.js \u001b[32m200\u001b[0m 0.804 ms - 9439\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:01:43"}
+{"level":"info","message":"\u001b[0mGET /.well-known/appspecific/com.chrome.devtools.json \u001b[32m200\u001b[0m 3.762 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:01:53"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:02:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:02:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 748.416 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:02:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.389 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:02:37"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:03:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:03:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 1379.592 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:03:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.796 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:03:37"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:04:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:04:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 792.122 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:04:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.618 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:04:37"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:05:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:05:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 792.642 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:05:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.684 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:05:37"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:06:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:06:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 642.360 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:06:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.078 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:06:37"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:07:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:07:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 977.183 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:07:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.231 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:07:37"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:08:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:08:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 787.025 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:08:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.069 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:08:37"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:09:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:09:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 795.596 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:09:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.350 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:09:37"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:10:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:10:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 657.186 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:10:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.415 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:10:37"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:11:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:11:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 773.931 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:11:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.733 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:11:37"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:12:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:12:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 678.475 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:12:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.579 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:12:37"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:13:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:13:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 823.829 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:13:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.956 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:13:37"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:14:41"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:14:41","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 5161.879 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:14:41"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.381 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:14:41"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:15:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:15:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 837.974 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:15:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.446 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:15:37"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:16:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:16:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 646.036 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:16:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.671 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:16:37"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:17:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:17:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 579.481 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:17:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.800 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:17:37"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:18:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:18:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 971.354 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:18:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.974 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:18:37"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:19:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:19:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 562.559 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:19:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.971 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:19:37"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:20:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:20:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 653.317 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:20:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.422 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:20:37"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:21:37"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:21:37","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 739.346 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:21:37"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 3.645 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:21:37"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 12:41:55"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 12:41:58"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 12:43:45"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 12:47:43"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 7.287 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:51:46"}
+{"level":"info","message":"\u001b[0mGET /css/styles.css \u001b[32m200\u001b[0m 4.454 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:51:46"}
+{"level":"info","message":"\u001b[0mGET /js/app.js \u001b[32m200\u001b[0m 2.432 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:51:46"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[32m200\u001b[0m 1.942 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:51:47"}
+{"level":"info","message":"Google service account authenticated successfully","service":"cable-rates-api","timestamp":"2026-08-07 12:51:47"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:51:49"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:51:49","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 2321.839 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:51:49"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 12:52:50"}
+{"level":"info","message":"Google service account authenticated successfully","service":"cable-rates-api","timestamp":"2026-08-07 12:53:47"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:53:48"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:53:48","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 1340.402 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:53:48"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 4.382 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:53:48"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:54:48"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:54:48","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 549.411 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:54:48"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 0.938 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:54:48"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:55:48"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:55:48","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 801.686 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:55:48"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.539 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:55:48"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 12:56:18"}
+{"level":"info","message":"Google service account authenticated successfully","service":"cable-rates-api","timestamp":"2026-08-07 12:56:47"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:56:51"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:56:51","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 3767.720 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:56:51"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.599 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:56:51"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 12:57:02"}
+{"level":"info","message":"Google service account authenticated successfully","service":"cable-rates-api","timestamp":"2026-08-07 12:57:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:57:47"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:57:47","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 1365.368 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:57:47"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 1.959 ms - 23348\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:57:47"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:57:48"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:57:48","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 1232.957 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:57:48"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 1.340 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:57:48"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:58:48"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:58:48","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 661.354 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:58:48"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.273 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:58:48"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 12:59:49"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 12:59:49","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 534.857 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:59:49"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.514 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 12:59:49"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:00:50"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:00:50","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 624.086 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:00:50"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.534 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:00:50"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:01:51"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:01:51","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 1104.756 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:01:51"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.038 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:01:51"}
+{"level":"info","message":"\u001b[0mGET /.well-known/appspecific/com.chrome.devtools.json \u001b[32m200\u001b[0m 4.637 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:02:07"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 3.054 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:02:11"}
+{"level":"info","message":"\u001b[0mGET /css/styles.css \u001b[32m200\u001b[0m 3.621 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:02:11"}
+{"level":"info","message":"\u001b[0mGET /js/app.js \u001b[32m200\u001b[0m 2.972 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:02:11"}
+{"level":"info","message":"\u001b[0mGET /.well-known/appspecific/com.chrome.devtools.json \u001b[36m304\u001b[0m 1.101 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:02:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 1.537 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:02:11"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[32m200\u001b[0m 1.671 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:02:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:03:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:03:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 665.735 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:03:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.495 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:03:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:04:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:04:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 679.937 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:04:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.188 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:04:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:05:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:05:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 674.429 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:05:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.444 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:05:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:06:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:06:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 670.168 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:06:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.565 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:06:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:07:12"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:07:12","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 1003.438 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:07:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 0.989 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:07:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:08:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:08:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 524.867 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:08:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.935 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:08:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:09:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:09:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 652.493 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:09:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.666 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:09:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:10:12"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:10:12","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 755.528 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:10:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.362 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:10:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:11:12"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:11:12","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 745.641 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:11:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.261 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:11:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:12:13"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:12:13","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 883.226 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:12:13"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.717 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:12:13"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:13:14"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:13:14","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 688.370 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:13:14"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 0.630 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:13:14"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:14:15"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:14:15","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 690.529 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:14:15"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.591 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:14:15"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:15:16"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:15:16","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 587.620 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:15:16"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 4.159 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:15:16"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:16:16"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:16:17","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 539.113 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:16:17"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.025 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:16:17"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:17:18"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:17:18","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 733.683 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:17:18"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.668 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:17:18"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:18:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:18:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 516.685 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:18:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.508 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:18:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:19:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:19:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 543.393 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:19:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 4.555 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:19:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:20:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:20:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 660.134 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:20:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.207 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:20:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:21:12"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:21:12","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 706.341 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:21:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.915 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:21:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:22:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:22:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 668.759 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:22:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 0.916 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:22:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:23:12"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:23:12","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 846.062 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:23:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 0.955 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:23:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:24:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:24:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 628.030 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:24:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 0.566 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:24:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:25:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:25:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 528.300 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:25:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.433 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:25:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:26:13"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:26:13","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 698.570 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:26:13"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 0.867 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:26:13"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:27:14"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:27:14","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 626.321 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:27:14"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.210 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:27:14"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:28:12"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:28:12","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 844.499 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:28:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.343 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:28:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:29:12"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:29:12","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 912.809 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:29:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.416 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:29:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:30:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:30:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 692.730 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:30:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.086 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:30:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:31:12"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:31:12","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 587.239 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:31:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 0.988 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:31:12"}
+{"level":"info","message":"\u001b[0mGET /.well-known/appspecific/com.chrome.devtools.json \u001b[32m200\u001b[0m 1.374 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:31:20"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:32:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:32:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 558.781 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:32:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 0.812 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:32:11"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 2.320 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:32:42"}
+{"level":"info","message":"\u001b[0mGET /css/styles.css \u001b[32m200\u001b[0m 1.460 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:32:42"}
+{"level":"info","message":"\u001b[0mGET /js/app.js \u001b[32m200\u001b[0m 1.231 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:32:42"}
+{"level":"info","message":"\u001b[0mGET /.well-known/appspecific/com.chrome.devtools.json \u001b[36m304\u001b[0m 0.785 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:32:42"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 1.192 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:32:43"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 1.033 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:32:43"}
+{"level":"info","message":"\u001b[0mGET /.well-known/appspecific/com.chrome.devtools.json \u001b[36m304\u001b[0m 0.863 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:32:43"}
+{"level":"info","message":"\u001b[0mGET /css/styles.css \u001b[32m200\u001b[0m 2.649 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:32:43"}
+{"level":"info","message":"\u001b[0mGET /js/app.js \u001b[32m200\u001b[0m 3.268 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:32:43"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 0.756 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:32:43"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[32m200\u001b[0m 0.793 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:32:43"}
+{"level":"info","message":"\u001b[0mGET /.well-known/appspecific/com.chrome.devtools.json \u001b[32m200\u001b[0m 1.736 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:33:41"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:33:44"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:33:44","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 960.912 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:33:44"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.437 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:33:44"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:34:44"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:34:44","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 1160.290 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:34:44"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 0.829 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:34:44"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:35:43"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:35:43","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 805.675 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:35:43"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.955 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:35:44"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 2.423 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:36:41"}
+{"level":"info","message":"\u001b[0mGET /css/styles.css \u001b[32m200\u001b[0m 1.174 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:36:42"}
+{"level":"info","message":"\u001b[0mGET /js/app.js \u001b[32m200\u001b[0m 1.931 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:36:42"}
+{"level":"info","message":"\u001b[0mGET /.well-known/appspecific/com.chrome.devtools.json \u001b[32m200\u001b[0m 1.419 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:36:42"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 1.998 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:36:42"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[32m200\u001b[0m 8.885 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:36:42"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:37:42"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:37:42","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 501.809 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:37:42"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.203 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:37:42"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:38:42"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:38:42","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 723.641 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:38:42"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.702 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:38:42"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:39:42"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:39:42","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 872.512 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:39:43"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.226 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:39:43"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:40:42"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:40:42","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 676.693 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:40:42"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.970 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:40:42"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"CAT6 UTP 23 AWG","reason":"One or more price values could not be parsed as numbers (P=10%) at row 4","rowNumber":4,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"CAT6  STP 23 AWG","reason":"One or more price values could not be parsed as numbers (P=10%) at row 5","rowNumber":5,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"CAT6 SFTP 23 AWG","reason":"One or more price values could not be parsed as numbers (P=10%) at row 6","rowNumber":6,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"CAT6 UTP 24 AWG","reason":"One or more price values could not be parsed as numbers (P=10%) at row 7","rowNumber":7,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"CAT6  STP 24 AWG","reason":"One or more price values could not be parsed as numbers (P=10%) at row 8","rowNumber":8,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"CAT6 SFTP 24 AWG","reason":"One or more price values could not be parsed as numbers (P=10%) at row 9","rowNumber":9,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"CAT6 UTP 25 AWG","reason":"One or more price values could not be parsed as numbers (P=10%) at row 10","rowNumber":10,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"CAT6  STP 25 AWG","reason":"One or more price values could not be parsed as numbers (P=10%) at row 11","rowNumber":11,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"CAT6 SFTP 25 AWG","reason":"One or more price values could not be parsed as numbers (P=10%) at row 12","rowNumber":12,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"CAT6 UTP 24 AWG ARMD.","reason":"One or more price values could not be parsed as numbers (P=10%) at row 13","rowNumber":13,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"CAT6 UTP 24 AWG","reason":"One or more price values could not be parsed as numbers (P=10%) at row 14","rowNumber":14,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"CAT6  STP 24 AWG","reason":"One or more price values could not be parsed as numbers (P=10%) at row 15","rowNumber":15,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"CAT6 SFTP 24 AWG","reason":"One or more price values could not be parsed as numbers (P=10%) at row 16","rowNumber":16,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"2 CORE SHLD.CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 17","rowNumber":17,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"KNX BUS CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 18","rowNumber":18,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"2 CORE FS CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 19","rowNumber":19,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"2 CORE FS SILICON RUBBER ARMD.CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 20","rowNumber":20,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"2 CORE FS EPR ARMD.CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 21","rowNumber":21,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"2 CORE FS EPR ARMD.CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 22","rowNumber":22,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"2 CORE FA UNA.CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 23","rowNumber":23,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"3CX2.5 LT XLPE CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 24","rowNumber":24,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"3CX2.5 LT XLPE CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 25","rowNumber":25,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"1 CORE 22AWG FEP","reason":"One or more price values could not be parsed as numbers (P=10%) at row 26","rowNumber":26,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"4Cx95 SQMM Power","reason":"One or more price values could not be parsed as numbers (P=10%) at row 27","rowNumber":27,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"4Cx25 SQMM Power","reason":"One or more price values could not be parsed as numbers (P=10%) at row 28","rowNumber":28,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"4Cx185 SQMM Power","reason":"One or more price values could not be parsed as numbers (P=10%) at row 29","rowNumber":29,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"4Cx70 SQMM Power","reason":"One or more price values could not be parsed as numbers (P=10%) at row 30","rowNumber":30,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"4Cx150 SQMM Power","reason":"One or more price values could not be parsed as numbers (P=10%) at row 31","rowNumber":31,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"4Cx240 SQMM Power","reason":"One or more price values could not be parsed as numbers (P=10%) at row 32","rowNumber":32,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"4Cx35 SQMM Power","reason":"One or more price values could not be parsed as numbers (P=10%) at row 33","rowNumber":33,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"4Cx10 SQMM Power","reason":"One or more price values could not be parsed as numbers (P=10%) at row 34","rowNumber":34,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"4Cx16 SQMM Power","reason":"One or more price values could not be parsed as numbers (P=10%) at row 35","rowNumber":35,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"3.5Cx25 SQMM Power","reason":"One or more price values could not be parsed as numbers (P=10%) at row 36","rowNumber":36,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"PATCH CORD D- LINK","reason":"One or more price values could not be parsed as numbers (P=10%) at row 37","rowNumber":37,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"CAT6 UTP D.SHEATH","reason":"One or more price values could not be parsed as numbers (P=10%) at row 38","rowNumber":38,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"4C X 1.5 FA CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 39","rowNumber":39,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"3C X 1.5 FA CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 40","rowNumber":40,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"2C X 1.5 FA CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 41","rowNumber":41,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"2C X 1.5MM FS  ARMD.CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 42","rowNumber":42,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"3C X 1.5MM FS  ARMD.CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 43","rowNumber":43,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"4C X 1.5 SQMM FS  ARMD.CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 44","rowNumber":44,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"2C X 1.5 SQMM FS  UNARMD.CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 45","rowNumber":45,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"3C X 1.5 SQMM FS  UNARMD.CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 46","rowNumber":46,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"4C X 1.5 SQMM FS  UNARMD.CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 47","rowNumber":47,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"2C X 2.5 SQMM FS  UNARMD.CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 48","rowNumber":48,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"3C X 2.5 SQMM FS  UNARMD.CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 49","rowNumber":49,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"4C X 2.5 SQMM FS  UNARMD.CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 50","rowNumber":50,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"2C X 2.5 SQMM FS  ARMD.CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 51","rowNumber":51,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"3C X 2.5 SQMM FS  ARMD.CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 52","rowNumber":52,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"4C X 2.5 SQMM FS  ARMD.CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 53","rowNumber":53,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"2C X 2.5 SQMM FS  ARMD.LSZH CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 54","rowNumber":54,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"3C X 2.5 SQMM FS  ARMD.LSZH CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 55","rowNumber":55,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"4C X 2.5 SQMM FS  ARMD.LSZH CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 56","rowNumber":56,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"2C X 4.0 SQMM FS  ARMD.LSZH CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 57","rowNumber":57,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"3C X4.0 SQMM FS  ARMD.LSZH CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 58","rowNumber":58,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"4C X 4.0 SQMM FS  ARMD.LSZH CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 59","rowNumber":59,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"2C X 6.0 SQMM FS  ARMD.LSZH CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 60","rowNumber":60,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"3C X 6.0 SQMM FS  ARMD.LSZH CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 61","rowNumber":61,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"4C X 6.0 SQMM FS  ARMD.LSZH CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 62","rowNumber":62,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"10P x 0.90 ARMD.PIJF CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 63","rowNumber":63,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"20P x 0.90 ARMD.PIJF CABLE","reason":"One or more price values could not be parsed as numbers (P=10%) at row 64","rowNumber":64,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"CAT6 23 AWG AL.ARMD.","reason":"One or more price values could not be parsed as numbers (P=10%) at row 65","rowNumber":65,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"2c x 1.50 sqmm power cable","reason":"One or more price values could not be parsed as numbers (P=10%) at row 66","rowNumber":66,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"12P x 0.40 MM SWITCH .","reason":"One or more price values could not be parsed as numbers (P=10%) at row 67","rowNumber":67,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"20P x 0.40 MM SWITCH .","reason":"One or more price values could not be parsed as numbers (P=10%) at row 68","rowNumber":68,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"CAT6 24 AWG UTP","reason":"One or more price values could not be parsed as numbers (P=10%) at row 69","rowNumber":69,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"warn","message":"Skipping row with invalid price data","name":"CAT6 24 AWG UTP","reason":"One or more price values could not be parsed as numbers (P=10%) at row 70","rowNumber":70,"service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"code":"EMPTY_DATA","level":"warn","message":"No cable rate data found in the sheet","method":"POST","path":"/api/v1/cache/refresh","service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[33m404\u001b[0m 823.197 ms - 67\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:41:43"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:42:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:42:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 4246.476 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:42:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 3.370 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:42:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:43:43"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:43:43","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 760.780 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:43:43"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 14.647 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:43:43"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:44:43"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:44:44","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 552.688 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:44:44"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 1.593 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:44:44"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:45:45"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:45:45","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 670.705 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:45:45"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 2.389 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:45:45"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:46:43"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:46:43","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 624.375 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:46:43"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 3.266 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:46:43"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:47:43"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:47:43","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 1267.475 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:47:43"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.133 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:47:43"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:48:43"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:48:43","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 1014.064 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:48:43"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.828 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:48:43"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:49:43"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:49:43","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 728.149 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:49:43"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.314 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:49:43"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 13:50:05"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 13:50:09"}
+{"level":"info","message":"Google service account authenticated successfully","service":"cable-rates-api","timestamp":"2026-08-07 13:50:44"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:50:47"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:50:47","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 3774.497 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:50:47"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 9.893 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:50:47"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 13:51:03"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 13:51:30"}
+{"level":"info","message":"Google service account authenticated successfully","service":"cable-rates-api","timestamp":"2026-08-07 13:51:45"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:51:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:51:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 2252.254 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:51:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 5.631 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:51:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:52:20"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:52:20","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 817.305 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:52:20"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 2.849 ms - 23364\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:52:20"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:52:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:52:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 577.826 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:52:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.768 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:52:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:53:48"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:53:48","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 1654.454 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:53:48"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.931 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:53:48"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:54:43"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:54:43","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 641.017 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:54:43"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.663 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:54:43"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 9.954 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:55:23"}
+{"level":"info","message":"\u001b[0mGET /css/styles.css \u001b[32m200\u001b[0m 12.095 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:55:24"}
+{"level":"info","message":"\u001b[0mGET /js/app.js \u001b[32m200\u001b[0m 15.989 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:55:24"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 7.295 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:55:24"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[32m200\u001b[0m 4.501 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:55:24"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:56:25"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:56:25","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 791.820 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:56:25"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 4.676 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:56:25"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 13:56:43"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 17.175 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:56:52"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[32m200\u001b[0m 11.802 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:56:53"}
+{"level":"info","message":"Google service account authenticated successfully","service":"cable-rates-api","timestamp":"2026-08-07 13:56:53"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:56:54"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:56:54","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1763.924 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:56:54"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 13:57:57"}
+{"level":"info","message":"Google service account authenticated successfully","service":"cable-rates-api","timestamp":"2026-08-07 13:58:53"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 13:58:54"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 13:58:54","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 1371.188 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:58:54"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.527 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:58:54"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 16.136 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:59:31"}
+{"level":"info","message":"\u001b[0mGET /css/styles.css \u001b[32m200\u001b[0m 5.557 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:59:31"}
+{"level":"info","message":"\u001b[0mGET /js/app.js \u001b[32m200\u001b[0m 4.777 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:59:31"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 2.675 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:59:32"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[32m200\u001b[0m 2.523 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:59:32"}
+{"level":"info","message":"\u001b[0mGET /.well-known/appspecific/com.chrome.devtools.json \u001b[32m200\u001b[0m 2.257 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 13:59:41"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 2.978 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:00:23"}
+{"level":"info","message":"\u001b[0mGET /css/styles.css \u001b[32m200\u001b[0m 7.132 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:00:23"}
+{"level":"info","message":"\u001b[0mGET /js/app.js \u001b[32m200\u001b[0m 6.527 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:00:24"}
+{"level":"info","message":"\u001b[0mGET /.well-known/appspecific/com.chrome.devtools.json \u001b[36m304\u001b[0m 3.065 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:00:24"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 1.662 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:00:24"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[32m200\u001b[0m 1.699 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:00:24"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:00:28"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:00:28","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 955.660 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:00:28"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 4.031 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:00:28"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 1.594 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:01:04"}
+{"level":"info","message":"\u001b[0mGET /css/styles.css \u001b[32m200\u001b[0m 6.981 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:01:04"}
+{"level":"info","message":"\u001b[0mGET /js/app.js \u001b[32m200\u001b[0m 6.579 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:01:04"}
+{"level":"info","message":"\u001b[0mGET /.well-known/appspecific/com.chrome.devtools.json \u001b[36m304\u001b[0m 1.110 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:01:04"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 3.096 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:01:04"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[32m200\u001b[0m 1.820 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:01:04"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:01:20"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:01:20","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 797.983 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:01:20"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.784 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:01:20"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:02:05"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:02:05","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 800.121 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:02:05"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.887 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:02:05"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:03:05"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:03:05","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 563.324 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:03:05"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.302 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:03:05"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 2.167 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:03:49"}
+{"level":"info","message":"\u001b[0mGET /js/app.js \u001b[32m200\u001b[0m 1.650 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:03:49"}
+{"level":"info","message":"\u001b[0mGET /css/styles.css \u001b[32m200\u001b[0m 1.719 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:03:49"}
+{"level":"info","message":"\u001b[0mGET /.well-known/appspecific/com.chrome.devtools.json \u001b[36m304\u001b[0m 0.964 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:03:49"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 1.658 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:03:49"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[32m200\u001b[0m 1.579 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:03:49"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:04:50"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:04:50","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 863.668 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:04:50"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.342 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:04:50"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:05:49"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:05:49","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 697.222 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:05:49"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 4.205 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:05:49"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 6.241 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:06:18"}
+{"level":"info","message":"\u001b[0mGET /js/app.js \u001b[32m200\u001b[0m 1.596 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:06:18"}
+{"level":"info","message":"\u001b[0mGET /css/styles.css \u001b[32m200\u001b[0m 1.683 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:06:18"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 2.788 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:06:18"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[32m200\u001b[0m 1.894 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:06:18"}
+{"level":"info","message":"\u001b[0mGET /.well-known/appspecific/com.chrome.devtools.json \u001b[36m304\u001b[0m 1.058 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:06:32"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:07:19"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:07:19","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 604.893 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:07:19"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.147 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:07:19"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:08:19"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:08:19","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 909.101 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:08:19"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.651 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:08:19"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 1.501 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:09:10"}
+{"level":"info","message":"\u001b[0mGET /css/styles.css \u001b[32m200\u001b[0m 2.605 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:09:10"}
+{"level":"info","message":"\u001b[0mGET /js/app.js \u001b[32m200\u001b[0m 5.623 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:09:10"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 2.005 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:09:10"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[32m200\u001b[0m 1.664 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:09:10"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:10:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:10:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 736.529 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:10:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 4.900 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:10:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:10:49"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:10:49","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 742.049 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:10:49"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 1.578 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:10:49"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:11:12"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:11:12","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 661.476 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:11:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[32m200\u001b[0m 3.776 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:11:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:12:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:12:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 536.478 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:12:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.476 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:12:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:13:12"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:13:12","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 709.193 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:13:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.731 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:13:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:14:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:14:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 551.249 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:14:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.510 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:14:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:15:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:15:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 758.372 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:15:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.867 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:15:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:16:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:16:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 859.148 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:16:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.870 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:16:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:17:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:17:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 584.573 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:17:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.386 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:17:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:18:11"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:18:11","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 989.627 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:18:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.995 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:18:11"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:19:12"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:19:12","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 681.847 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:19:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.614 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:19:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:20:13"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:20:13","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 689.080 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:20:13"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.376 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:20:13"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:21:14"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:21:14","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 735.178 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:21:14"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.049 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:21:14"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:22:15"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:22:15","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 647.032 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:22:15"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.022 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:22:15"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:23:16"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:23:16","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 790.973 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:23:16"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 5.052 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:23:16"}
+{"level":"info","message":"\u001b[0mGET / \u001b[36m304\u001b[0m 4.042 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:24:10"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.129 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:24:10"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[36m304\u001b[0m 1.321 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:24:10"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:25:12"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:25:12","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 711.706 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:25:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.734 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:25:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:26:12"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:26:12","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 705.497 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:26:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.678 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:26:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:27:12"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:27:12","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 900.504 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:27:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.269 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:27:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:28:12"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:28:12","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 733.736 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:28:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.558 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:28:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:29:12"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:29:12","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 952.348 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:29:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 4.203 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:29:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:30:12"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:30:12","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 574.275 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:30:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 4.226 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:30:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:31:12"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:31:12","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 744.694 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:31:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 10.782 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:31:12"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:32:13"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:32:13","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 779.468 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:32:13"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.430 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:32:13"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:33:14"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:33:14","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 600.549 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:33:14"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.799 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:33:14"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:34:16"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:34:16","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 1657.463 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:34:16"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.652 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:34:16"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:35:16"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:35:16","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 661.359 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:35:16"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.770 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:35:16"}
+{"level":"info","message":"\u001b[0mGET / \u001b[36m304\u001b[0m 0.893 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:35:44"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.052 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:35:45"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[36m304\u001b[0m 1.633 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:35:45"}
+{"level":"info","message":"\u001b[0mGET /.well-known/appspecific/com.chrome.devtools.json \u001b[32m200\u001b[0m 1.616 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:35:52"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:36:45"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:36:45","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 720.126 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:36:45"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.796 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:36:45"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:37:45"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:37:45","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 770.973 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:37:45"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.133 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:37:45"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:38:45"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:38:45","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 635.513 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:38:45"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.023 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:38:45"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:39:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:39:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 1259.338 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:39:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.948 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:39:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:40:45"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:40:45","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 655.527 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:40:45"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 4.297 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:40:45"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:41:45"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:41:45","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 543.727 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:41:45"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.512 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:41:45"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:42:45"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:42:45","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 581.570 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:42:45"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.484 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:42:45"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:43:45"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:43:45","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 678.049 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:43:45"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.908 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:43:45"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:44:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:44:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 1076.620 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:44:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.520 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:44:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:45:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:45:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 616.983 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:45:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.600 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:45:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:46:47"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:46:47","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 862.322 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:46:47"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.061 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:46:47"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:47:48"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:47:48","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 706.625 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:47:48"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.532 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:47:48"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:48:49"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:48:49","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 917.525 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:48:49"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.839 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:48:49"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:49:50"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:49:50","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 748.520 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:49:50"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.204 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:49:50"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:50:40"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:50:40","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 648.346 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:50:40"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.096 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:50:40"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 14:50:45"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 14:50:45","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 612.378 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:50:45"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.955 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 14:50:45"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"cable-rates-api","timestamp":"2026-08-07 14:51:38"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 16:39:26"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 16:39:28"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 4.882 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:39:43"}
+{"level":"info","message":"\u001b[0mGET /css/styles.css \u001b[32m200\u001b[0m 3.282 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:39:44"}
+{"level":"info","message":"\u001b[0mGET /js/app.js \u001b[32m200\u001b[0m 2.181 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:39:44"}
+{"level":"info","message":"\u001b[0mGET / \u001b[36m304\u001b[0m 1.862 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:39:45"}
+{"level":"info","message":"Google service account authenticated successfully","service":"cable-rates-api","timestamp":"2026-08-07 16:39:45"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:39:47"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:39:47","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1496.140 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:39:47"}
+{"cacheTtlSeconds":300,"environment":"development","level":"info","message":"Cable Rates API started","port":3000,"service":"cable-rates-api","timestamp":"2026-08-07 16:40:49"}
+{"level":"info","message":"Google service account authenticated successfully","service":"cable-rates-api","timestamp":"2026-08-07 16:41:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:41:48"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:41:48","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 1768.182 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:41:48"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 4.051 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:41:48"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:42:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:42:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 904.921 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:42:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.337 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:42:46"}
+{"level":"info","message":"\u001b[0mGET /.well-known/appspecific/com.chrome.devtools.json \u001b[36m304\u001b[0m 6.099 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:42:58"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:43:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:43:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 890.890 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:43:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.000 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:43:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:44:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:44:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 702.317 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:44:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 4.170 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:44:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:45:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:45:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 720.059 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:45:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.958 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:45:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:46:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:46:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 712.716 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:46:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.540 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:46:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:47:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:47:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 721.209 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:47:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.670 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:47:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:48:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:48:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 777.339 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:48:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.555 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:48:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:49:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:49:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 739.365 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:49:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.939 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:49:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:50:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:50:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 550.761 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:50:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.153 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:50:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:51:47"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:51:47","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 655.648 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:51:47"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.083 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:51:47"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:52:48"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:52:48","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 856.367 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:52:48"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 4.266 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:52:48"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:53:49"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:53:49","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 722.057 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:53:49"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.610 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:53:49"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:54:50"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:54:50","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 636.896 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:54:50"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.554 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:54:50"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:55:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:55:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 989.547 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:55:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.889 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:55:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:56:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:56:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 784.990 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:56:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 0.924 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:56:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:56:54"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:56:54","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 590.981 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:56:54"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.497 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:56:54"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:56:57"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:56:57","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 678.065 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:56:57"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.200 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:56:57"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:57:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:57:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 624.903 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:57:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.805 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:57:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:58:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:58:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 1000.311 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:58:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.188 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:58:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 16:59:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 16:59:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 603.998 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:59:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 4.492 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 16:59:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:00:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:00:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 814.575 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:00:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.762 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:00:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:01:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:01:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 822.948 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:01:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.323 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:01:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:02:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:02:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 639.142 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:02:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 0.897 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:02:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:03:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:03:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 529.622 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:03:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.114 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:03:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:04:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:04:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 1247.254 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:04:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.343 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:04:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:05:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:05:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 853.493 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:05:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.160 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:05:46"}
+{"level":"info","message":"\u001b[0mGET /.well-known/appspecific/com.chrome.devtools.json \u001b[36m304\u001b[0m 3.118 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:06:21"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:06:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:06:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 651.865 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:06:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.499 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:06:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:07:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:07:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 1066.784 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:07:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.014 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:07:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:08:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:08:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 865.625 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:08:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.377 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:08:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:09:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:09:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 537.358 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:09:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.878 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:09:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:10:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:10:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 883.152 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:10:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.667 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:10:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:11:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:11:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 884.136 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:11:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.672 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:11:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:12:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:12:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 899.868 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:12:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.751 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:12:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:13:46"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:13:46","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 614.762 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:13:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.022 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:13:46"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:14:47"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:14:47","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 809.690 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:14:47"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.724 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:14:47"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:15:48"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:15:48","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 837.612 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:15:48"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.451 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:15:48"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:16:49"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:16:49","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 661.558 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:16:49"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.702 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:16:49"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:17:50"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:17:50","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 883.307 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:17:50"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.562 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:17:50"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:18:51"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:18:51","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 977.620 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:18:51"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 1.698 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:18:51"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:19:52"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:19:52","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 756.823 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:19:52"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.662 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:19:52"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:20:55"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:20:55","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 3444.016 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:20:55"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.005 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:20:55"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:21:54"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:21:54","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 607.322 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:21:54"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 3.295 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:21:54"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:22:47"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:22:47","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 664.823 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:22:47"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 4.354 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:22:47"}
+{"count":67,"level":"info","message":"Fetched rates from Google Sheets","service":"cable-rates-api","sheetName":"Master List","timestamp":"2026-08-07 17:23:48"}
+{"count":67,"level":"info","message":"Rates cache updated","service":"cable-rates-api","timestamp":"2026-08-07 17:23:48","ttlSeconds":300}
+{"level":"info","message":"\u001b[0mPOST /api/v1/cache/refresh \u001b[32m200\u001b[0m 528.104 ms - 122\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:23:48"}
+{"level":"info","message":"\u001b[0mGET /api/v1/rates \u001b[36m304\u001b[0m 2.027 ms - -\u001b[0m","service":"cable-rates-api","timestamp":"2026-08-07 17:23:48"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"cable-rates-api","timestamp":"2026-08-07 17:24:10"}
